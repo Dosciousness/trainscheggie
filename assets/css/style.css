@@ -1,0 +1,23 @@
+body {
+    background: grey;
+}
+#head {
+    text-align: center;
+    color: gold;
+}
+#title {
+    color: rgb(0, 60, 255);
+    text-align: center;
+    background: silver;
+}
+.container {
+    background-color: black;
+}
+.jumbotron {
+    background-image: url("");
+    background-repeat: space;
+    background-color: black;
+}
+.text-center {
+    color: rgb(34, 0, 255);
+}
